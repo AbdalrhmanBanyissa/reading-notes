@@ -44,9 +44,13 @@ in my opinion I think that growth mindset is that you are taking your abilities 
 
 
 ## Brief summary of the author
+![](https://scontent.famm10-1.fna.fbcdn.net/v/t1.6435-9/92023886_1118191688536045_282841828577771520_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=174925&_nc_ohc=EBmufr9HcekAX-ZpPCn&_nc_ht=scontent.famm10-1.fna&oh=ca5f6046ceeee8046f430b36ce449793&oe=60886EAD)
+
 ***Hello there, I'm Abd Alrhman and I'm 27 years old.
 I have background in mechanical engineering, sales, electronics stuff, and a little programing languages like java. 
 I'm using windows 10 as my OS  Version 10.0.19042 Build 19042.
 I think this course will take me somewhere deferent that what I get use to do but its okay for me because I like new challenges, and I'm excited for what next.***
 
-GetHub Profile link: [https://github.com/AbdalrhmanBanyissa](https://github.com/AbdalrhmanBanyissa)
+
+
+[GitHub Profile link](https://github.com/AbdalrhmanBanyissa)
