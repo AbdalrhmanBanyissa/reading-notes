@@ -13,13 +13,12 @@
 $ git add .
 $ git commit -m " write any comment you want "
 & git push (HTTPS,SSH,....) (Bransh)
-
 ```
-`Example`
 
+` Example `
 
 ```
 $ git add .
 $ git commite -m " This is my test commit "
 $ git push origin main
-
+```
