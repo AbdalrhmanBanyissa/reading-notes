@@ -10,12 +10,12 @@ Java is used to develop mobile apps, web apps, desktop apps, games and much more
 
 | Section No. | Section Title |
 | ------------ | ------------- |
-| 1 | [Introduction](Inrto) |
-| 2 | [Getting Started](Get-Started) |
-| 3 | [Syntax](Syntax) |
-| 4 | [Comments](Comments) |
-| 5 | [Variables](Variables) |
-| 6 | [Data Types](Data-Types) |
+| Reading note1 | [Introduction](reading-note-1) |
+| Reading note2 | [Getting Started](Get-Started) |
+| Reading note3 | [Syntax](Syntax) |
+| Reading note4 | [Comments](Comments) |
+| Reading note5 | [Variables](Variables) |
+| Reading note6 | [Data Types](Data-Types) |
 
 
 welcom to my blogg
