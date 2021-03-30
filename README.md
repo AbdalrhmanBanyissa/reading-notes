@@ -1,6 +1,7 @@
 # reading-notes
 
-# Java Tutorial
+# Java Tutorial [source](https://www.w3schools.com/java/default.asp)
+
 Java is a programming language.
 
 Java is used to develop mobile apps, web apps, desktop apps, games and much more.
