@@ -19,16 +19,16 @@ Data types are divided into two groups:
 A primitive data type specifies the size and type of variable values, and it has no additional methods.
 
 There are eight primitive data types in Java:
-| Data Type | Size | Description |
-| ------------ | ------------- |-----|
+| Data Type | Size | Description     |
+| ----------|------|-----------------|
 |byte|1 byte|Stores whole numbers from -128 to 127|
-|short|2 byte|Stores whole numbers from -32,768 to 32,767|
-|int|4 byte|Stores whole numbers from -2,147,483,648 to 2,147,483,647|
-|long|8 byte|Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807|
-|float|4 byte|Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits|
-|double|8 byte|Stores fractional numbers. Sufficient for storing 15 decimal digits|
+|short|2 byte|Stores whole numbers from -32K to 32K|
+|int|4 byte|Stores whole numbers from -2B to 2B|
+|long|8 byte| |
+|float|4 byte||
+|double|8 byte||
 |boolean|1 byte|Stores true or false values|
-|char|2 byte|	Stores a single character/letter or ASCII values|
+|char|2 byte|	Stores a single character|
 
 ## Non-Primitive Data Types
 Non-primitive data types are called **reference types** because they refer to objects.
