@@ -1,4 +1,22 @@
 # reading-notes
+
+# Java Tutorial
+Java is a programming language.
+
+Java is used to develop mobile apps, web apps, desktop apps, games and much more.
+
+## Table of Content 
+
+| Section No. | Section Title |
+| ------------ | ------------- |
+| 1 | [Introduction](Intro) |
+| 2 | [Getting Started](Get-Started) |
+| 3 | [Syntax](Syntax) |
+| 4 | [Comments](Comments) |
+| 5 | [Variables](Variables) |
+| 6 | [Data Types](Data-Types) |
+
+
 welcom to my blogg
 
 ## **Growth mindset**
