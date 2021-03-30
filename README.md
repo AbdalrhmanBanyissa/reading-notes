@@ -9,7 +9,7 @@ Java is used to develop mobile apps, web apps, desktop apps, games and much more
 
 | Section No. | Section Title |
 | ------------ | ------------- |
-| 1 | [Introduction](Intro) |
+| 1 | [Introduction](Inrto) |
 | 2 | [Getting Started](Get-Started) |
 | 3 | [Syntax](Syntax) |
 | 4 | [Comments](Comments) |
