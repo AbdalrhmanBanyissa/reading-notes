@@ -13,33 +13,46 @@ JavaScript is a programming language commonly used in web development. It was or
 An **expression** is any valid set of literals, variables, operators, and expressions that evaluates to a value. there are two types of expressions:
 
 1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE
+
     ```java scipt
     var color = 'beige';
     ```
+
 2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE
+
     ```java scipt
     var area = 3 * 2;
     ```
 
 An **Operator** performs some operation on single or multiple operands (data value) and produces a result.
 
+
 * ASSIGNMENT OPERATORS
+
     ```java script
     color = 'beige';
     ```
+
 * ARITHMETIC OPERATORS
+
     ```java script
     area = 3 * 2;
     ```
+
 * STRING OPERATORS
+
     ```java script
     greeting= 'Hi 1 + 'Mol ly';
     ```
+
 * COMPARISON OPERATORS
+
     ```java script
     buy = 3 > 5;
     ```
+
 * LOGICAL OPERATORS
+
     ```java script
     buy= (5 > 3) && (2 < 4);
     ```
@@ -48,6 +61,7 @@ An **Operator** performs some operation on single or multiple operands (data val
 **Function** is like a big box can hold many lines of code to perform a specific task. and you can use it in more than on place of your program.
 
 #### Syntax
+
 ```java script
 function name(parameter1, parameter2, parameter3) {
   // code to be executed
