@@ -4,7 +4,7 @@
 
 ### Comparison operators
 We use **comparison operators** to evaluating conditions and the result of the compareson operator will be booliean value *(true / false)*. Usually comparison operators return a single value.
-
+ 
 
 
 #### Basic structure 
@@ -18,21 +18,20 @@ We use **comparison operators** to evaluating conditions and the result of the c
  [comparison operators](https://www.w3schools.com/js/js_comparisons.asp)
 
 
- ### Logical operators
+### Logical operators
 
 
- **logical operators** allowes us to use two or more compareson operators together in one sentence and return the final value as a *true or false*.
+**logical operators** allowes us to use two or more compareson operators together in one sentence and return the final value as a *true or false*.
 
-
- #### Basic structure 
+#### Basic structure 
 
 
  ` 5<2 && 2>=3 `   , Which:
 
 
- * 2, 3, and 5 are operands
- * && logical operator
- * '>=, <' compareson operators
+* 2, 3, and 5 are operands
+* && logical operator
+* '>=, <' compareson operators
 
 
 [Logical operators](https://www.w3schools.com/js/js_comparisons.asp)
@@ -50,15 +49,14 @@ We use **comparison operators** to evaluating conditions and the result of the c
 **For loop** use the counter as a condition and it has a very specific number of iterations.
 
 
- #### Basic structure 
+#### Basic structure 
 
 
- ```java script
+```java script
  for (statement 1; statement 2; statement 3) {
   // code block to be executed
 }
 ```
-
 
 * Statement 1 is executed (one time) before the execution of the code block.
 
@@ -68,16 +66,14 @@ We use **comparison operators** to evaluating conditions and the result of the c
 
 ### While loop
 
-
 **While Loop** can execute a block of code as long as a specified condition is true.
 
 
- #### Basic structure 
+#### Basic structure 
 
 
- ```java script
+```java script
 while (condition) {
   // code block to be executed
-
 }
 ```
