@@ -70,3 +70,10 @@ for (Statement 1;Statement 2;Statement 3){
 
 
 #### Basic structure 
+
+
+```
+while (condition){
+    // code block to be executed
+}
+```
