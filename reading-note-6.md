@@ -53,9 +53,13 @@ We use **comparison operators** to evaluating conditions and the result of the c
 
 
 ```java script
+
+
  for (statement 1; statement 2; statement 3) {
   // code block to be executed
 }
+
+
 ```
 
 * Statement 1 is executed (one time) before the execution of the code block.
@@ -73,7 +77,11 @@ We use **comparison operators** to evaluating conditions and the result of the c
 
 
 ```java script
+
+
 while (condition) {
   // code block to be executed
 }
+
+
 ```
