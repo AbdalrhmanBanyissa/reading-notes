@@ -49,6 +49,15 @@ We use **comparison operators** to evaluating conditions and the result of the c
 **For loop** use the counter as a condition and it has a very specific number of iterations.
 
 
+#### Basic structure 
+
+```
+for (Statement 1;Statement 2;Statement 3){
+    // code block to be executed
+}
+```
+
+
 * Statement 1 is executed (one time) before the execution of the code block.
 
 * Statement 2 defines the condition for executing the code block.
