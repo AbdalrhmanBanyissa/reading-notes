@@ -16,6 +16,7 @@ Java is used to develop mobile apps, web apps, desktop apps, games and much more
 | 4 | [reading-note-4](reading-note-4) |
 | 5 | [reading-note-5](reading-note-5) |
 | 6 | [reading-note-6](reading-note-6) |
+| 7 | [reading-note-7](reading-note-7) |
 
 
 welcom to my blogg
