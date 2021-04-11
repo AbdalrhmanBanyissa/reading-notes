@@ -145,39 +145,6 @@ An **Operator** performs some operation on single or multiple operands (data val
 ## Functions
 **Function** is like a big box can hold many lines of code to perform a specific task. and you can use it in more than on place of your program.
 
-#### Syntax
-
-
-```java script
-
-function name(parameter1, parameter2, parameter3) {
-  // code to be executed
-}
-
-```
-
-
-## Switch statement 
-
+## Switch statement
 
 The switch statement is do the same as if statement work but in another syntax.
-
-
-#### Syntax
-
-
-```java script
-
-switch(expression) {
-  case x:
-    // code block
-    break;
-  case y:
-    // code block
-    break;
-  default:
-    // code block
-}
-
-
-```
