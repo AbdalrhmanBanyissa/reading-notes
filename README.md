@@ -22,7 +22,7 @@
 | **Section No.** | **Section Title** |
 | ------------ | ------------- |
 | reading-note-1 | [class-01](class-01.md) |
-| reading-note-2 | []() |
+| reading-note-2 | [class-02](class-02.md) |
 | reading-note-3 | []() |
 | reading-note-4 | []() |
 | reading-note-5 | []() |
