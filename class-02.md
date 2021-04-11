@@ -147,17 +147,24 @@ An **Operator** performs some operation on single or multiple operands (data val
 
 #### Syntax
 
+
 ```java script
+
 function name(parameter1, parameter2, parameter3) {
   // code to be executed
 }
+
 ```
+
 
 ## Switch statement 
 
+
 The switch statement is do the same as if statement work but in another syntax.
 
+
 #### Syntax
+
 
 ```java script
 
@@ -171,5 +178,6 @@ switch(expression) {
   default:
     // code block
 }
-```
 
+
+```
