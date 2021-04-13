@@ -120,7 +120,7 @@ We use **comparison operators** to evaluating conditions and the result of the c
 
 ` for (Statement 1;Statement 2;Statement 3){// code block to be executed} `
 
-```the code block.
+>the code block.
 
 * Statement 2 defines the condition for executing the code block.
 
