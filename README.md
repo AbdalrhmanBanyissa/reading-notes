@@ -21,21 +21,21 @@
 
 | **Section No.** | **Section Title** |
 | ------------ | ------------- |
-| reading-note-1 | [class-01](class-01.md) |
-| reading-note-2 | [class-02](class-02.md) |
-| reading-note-3 | []() |
-| reading-note-4 | []() |
-| reading-note-5 | []() |
-| reading-note-6 | []() |
-| reading-note-7 | []() |
-| reading-note-8 | []() |
-| reading-note-9 | []() |
-| reading-note-10 | []() |
-| reading-note-11 | []() |
-| reading-note-12 | []() |
-| reading-note-13 | []() |
-| reading-note-14 | []() |
-| reading-note-15 | []() |
+| Read: 01 | [Introductory HTML and JavaScript](read-01.md) |
+| Read: 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read-02.md) |
+| Read: 03 | [HTML Lists, CSS Boxes, JS Control Flow](read-03.md) |
+| Read: 04 | []() |
+| Read: 05 | []() |
+| Read: 06 | []() |
+| Read: 07 | []() |
+| Read: 08 | []() |
+| Read: 09 | []() |
+| Read: 10 | []() |
+| Read: 11 | []() |
+| Read: 12 | []() |
+| Read: 13 | []() |
+| Read: 14 | []() |
+| Read: 15 | []() |
 
 
 
