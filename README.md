@@ -24,7 +24,7 @@
 | Read: 01 | [Introductory HTML and JavaScript](read-01.md) |
 | Read: 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read-02.md) |
 | Read: 03 | [HTML Lists, CSS Boxes, JS Control Flow](read-03.md) |
-| Read: 04 | []() |
+| Read: 04 | [HTML Links, JS Functions, and Intro to CSS Layout](read-04.md) |
 | Read: 05 | []() |
 | Read: 06 | []() |
 | Read: 07 | []() |
