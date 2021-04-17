@@ -26,7 +26,7 @@
 | Read: 03 | [HTML Lists, CSS Boxes, JS Control Flow](read-03.md) |
 | Read: 04 | [HTML Links, JS Functions, and Intro to CSS Layout](read-04.md) |
 | Read: 05 | [HTML Images; CSS Color & Text](read-05.md) |
-| Read: 06 | []() |
+| Read: 06 | [Problem Domain, Objects, and the DOM](read-06.md) |
 | Read: 07 | []() |
 | Read: 08 | []() |
 | Read: 09 | []() |
