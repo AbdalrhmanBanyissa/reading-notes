@@ -27,7 +27,7 @@
 | Read: 04 | [HTML Links, JS Functions, and Intro to CSS Layout](read-04.md) |
 | Read: 05 | [HTML Images; CSS Color & Text](read-05.md) |
 | Read: 06 | [Problem Domain, Objects, and the DOM](read-06.md) |
-| Read: 07 | []() |
+| Read: 07 | [Object-Oriented Programming, HTML Tables](read-07.md) |
 | Read: 08 | []() |
 | Read: 09 | []() |
 | Read: 10 | []() |
