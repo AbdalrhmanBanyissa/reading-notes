@@ -29,7 +29,7 @@
 | Read: 06 | [Problem Domain, Objects, and the DOM](read-06.md) |
 | Read: 07 | [Object-Oriented Programming, HTML Tables](read-07.md) |
 | Read: 08 | [CSS Layout](read-08.md) |
-| Read: 09 | []() |
+| Read: 09 | [Forms and JS Events](read-09.md) |
 | Read: 10 | []() |
 | Read: 11 | []() |
 | Read: 12 | []() |
