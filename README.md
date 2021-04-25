@@ -31,7 +31,7 @@
 | Read: 08 | [CSS Layout](read-08.md) |
 | Read: 09 | [Forms and JS Events](read-09.md) |
 | Read: 10 | [JS Debugging](read-10.md) |
-| Read: 11 | []() |
+| Read: 11 | [Assorted Topics](read-11.md) |
 | Read: 12 | []() |
 | Read: 13 | []() |
 | Read: 14 | []() |
