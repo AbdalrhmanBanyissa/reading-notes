@@ -33,7 +33,7 @@
 | Read: 10 | [JS Debugging](read-10.md) |
 | Read: 11 | [Assorted Topics](read-11.md) |
 | Read: 12 | [Docs for the HTML `<canvas>` Element & Chart.js](read-12.md) |
-| Read: 13 | []() |
+| Read: 13 | [Local Storage](read-13.md) |
 | Read: 14 | []() |
 | Read: 15 | []() |
 
