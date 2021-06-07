@@ -43,7 +43,7 @@
 | **Section No.** | **Section Title** |
 | ------------ | ------------- |
 | Read: 01 | [Introduction to React and Components](Read-Class-01.md) |
-| Read: 02 | [Introduction to React and Components](Read-Class-02.md) |
+| Read: 02 | [State and Props](Read-Class-02.md) |
 
 ## Code 401 - Advanced Software Development
 
