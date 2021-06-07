@@ -6,13 +6,13 @@
 
 | **Section No.** | **Section Title** |
 | ------------ | ------------- |
-| 1 | [reading note-1](reading-note-1) |
-| 2 | [reading-note-2](reading-note-2) |
-| 3 | [reading-note-3](reading-note-3) |
-| 4 | [reading-note-4](reading-note-4) |
-| 5 | [reading-note-5](reading-note-5) |
-| 6 | [reading-note-6](reading-note-6) |
-| 7 | [reading-note-7](reading-note-7) |
+| 1 | [reading note-1](./102/reading-note-1) |
+| 2 | [reading-note-2](./102/reading-note-2) |
+| 3 | [reading-note-3](./102/reading-note-3) |
+| 4 | [reading-note-4](./102/reading-note-4) |
+| 5 | [reading-note-5](./102/reading-note-5) |
+| 6 | [reading-note-6](./102/reading-note-6) |
+| 7 | [reading-note-7](./102/reading-note-7) |
 
 ## Code 201 - Foundations of Software Development
 
@@ -20,20 +20,20 @@
 
 | **Section No.** | **Section Title** |
 | ------------ | ------------- |
-| Read: 01 | [Introductory HTML and JavaScript](read-01.md) |
-| Read: 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read-02.md) |
-| Read: 03 | [HTML Lists, CSS Boxes, JS Control Flow](read-03.md) |
-| Read: 04 | [HTML Links, JS Functions, and Intro to CSS Layout](read-04.md) |
-| Read: 05 | [HTML Images; CSS Color & Text](read-05.md) |
-| Read: 06 | [Problem Domain, Objects, and the DOM](read-06.md) |
-| Read: 07 | [Object-Oriented Programming, HTML Tables](read-07.md) |
-| Read: 08 | [CSS Layout](read-08.md) |
-| Read: 09 | [Forms and JS Events](read-09.md) |
-| Read: 10 | [JS Debugging](read-10.md) |
-| Read: 11 | [Assorted Topics](read-11.md) |
-| Read: 12 | [Docs for the HTML `<canvas>` Element & Chart.js](read-12.md) |
-| Read: 13 | [Local Storage](read-13.md) |
-| Read: 14 | [Advanced CSS & Google Teams](read-14.md) |
+| Read: 01 | [Introductory HTML and JavaScript](./201/read-01.md) |
+| Read: 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](./201/read-02.md) |
+| Read: 03 | [HTML Lists, CSS Boxes, JS Control Flow](./201/read-03.md) |
+| Read: 04 | [HTML Links, JS Functions, and Intro to CSS Layout](./201/read-04.md) |
+| Read: 05 | [HTML Images; CSS Color & Text](./201/read-05.md) |
+| Read: 06 | [Problem Domain, Objects, and the DOM](./201/read-06.md) |
+| Read: 07 | [Object-Oriented Programming, HTML Tables](./201/read-07.md) |
+| Read: 08 | [CSS Layout](./201/read-08.md) |
+| Read: 09 | [Forms and JS Events](./201/read-09.md) |
+| Read: 10 | [JS Debugging](./201/read-10.md) |
+| Read: 11 | [Assorted Topics](./201/read-11.md) |
+| Read: 12 | [Docs for the HTML `<canvas>` Element & Chart.js](./201/read-12.md) |
+| Read: 13 | [Local Storage](./201/read-13.md) |
+| Read: 14 | [Advanced CSS & Google Teams](./201/read-14.md) 
 | Read: 15 | []() |
 
 ## Code 301 - Intermediate Software Development
@@ -42,8 +42,8 @@
 
 | **Section No.** | **Section Title** |
 | ------------ | ------------- |
-| Read: 01 | [Introduction to React and Components](Read-Class-01.md) |
-| Read: 02 | [State and Props](Read-Class-02.md) |
+| Read: 01 | [Introduction to React and Components](./301/Read-Class-01.md) |
+| Read: 02 | [State and Props](./301/Read-Class-02.md) |
 
 ## Code 401 - Advanced Software Development
 
