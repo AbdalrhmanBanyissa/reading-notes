@@ -46,6 +46,7 @@
 | Read: 02 | [State and Props](./301/Read-Class-02.md) |
 | Read: 03 | [Passing Functions as Props](./301/Read-Class-03.md) |
 | Read: 04 | [React and Forms](./301/Read-Class-04.md) |
+| Read: 05 | [Putting it all together](./301/Read-Class-05.md) |
 
 ## Code 401 - Advanced Software Development
 
