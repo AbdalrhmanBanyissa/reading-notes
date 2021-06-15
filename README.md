@@ -50,6 +50,7 @@
 | Read: 06 | [NODE.JS](./301/Read-Class-06.md) |
 | Read: 07 | [REST](./301/Read-Class-07.md) |
 | Read: 08 | [APIs](./301/Read-Class-08.md) |
+| Read: 09 | [FUNCTIONAL PROGRAMMING](./301/Read-Class-09.md) |
 
 ## Code 401 - Advanced Software Development
 
