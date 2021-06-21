@@ -54,6 +54,7 @@
 | Read: 10 | [In Memory Storage](./301/Read-Class-10.md) |
 | Read: 11 | [Authentication](./301/Read-Class-11.md) |
 | Read: 12 | [Mongo and Mongoose](./301/Read-Class-12.md) |
+| Read: 13 | [CRUD](./301/Read-Class-13.md) |
 
 ## Code 401 - Advanced Software Development
 
