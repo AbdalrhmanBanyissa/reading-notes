@@ -55,6 +55,8 @@
 | Read: 11 | [Authentication](./301/Read-Class-11.md) |
 | Read: 12 | [Mongo and Mongoose](./301/Read-Class-12.md) |
 | Read: 13 | [CRUD](./301/Read-Class-13.md) |
+| Read: 14 | [Project Ideas](./301/Read-Class-14.md) |
+| Read: 15 | [Project Ideas](./301/Read-Class-15.md) |
 
 ## Code 401 - Advanced Software Development
 
